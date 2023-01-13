@@ -121,9 +121,6 @@ CASE
 	WHEN SoldAsVacant = 'N' THEN 'No'
 	ELSE SoldAsVacant --Do not change it
 END
--------------------------------------------------------------------------------------------------------------------------------------
-
-/*Remove duplicates. Going to skip this part since i deleted the SaleDate. NOTE: i need to learn what a CTE is*/
 
 -------------------------------------------------------------------------------------------------------------------------------------
 /*Remove Unused Columns*/
