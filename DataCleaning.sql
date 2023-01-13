@@ -127,5 +127,5 @@ END
 
 ALTER TABLE NashvilleHousing
 DROP COLUMN OwnerAddress,
-			taxdistrict,
-			PropertyAddress
+	    taxdistrict,
+	    PropertyAddress
